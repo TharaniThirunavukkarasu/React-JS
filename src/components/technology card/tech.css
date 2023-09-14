@@ -1,0 +1,40 @@
+*{
+    margin:0 auto;
+    padding: 0 auto;
+}
+
+
+.tech-card1{
+    width:80%;
+    border-top: 8px solid red;
+    border-radius: 15px;
+    height: auto;
+    margin:0 auto ;
+
+}
+.tech-card2{
+    width:80%;
+    border-top: 8px solid rgb(5, 165, 240);
+    border-radius: 15px;
+    height: auto;
+    
+}
+.tech-card3{
+    width:80%;
+    border-top: 8px solid cyan;
+    border-radius: 15px;
+    height: auto;
+}
+.tech-card4{
+    width:90%;
+    border-top: 8px solid yellow;
+    border-radius: 15px;
+    height: auto;
+    margin: 0 auto;
+}
+.img1{
+    height: 30%;
+    width:30%;
+    position: relative;
+    left: 65px;
+}

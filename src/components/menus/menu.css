@@ -1,0 +1,15 @@
+*{
+    margin:0 auto;
+    padding: 0 auto;
+}
+
+.navmenu{
+    background-color: slateblue;
+    height:60px;
+    width:100%;
+}
+.navtex{
+    text-decoration: none;
+    float: left;
+
+}

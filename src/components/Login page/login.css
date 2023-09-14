@@ -1,0 +1,49 @@
+*{
+    margin: 0 auto;
+    padding: 0 auto;
+}
+
+.loginback{
+    background-image: linear-gradient(to right,rgb(10, 181, 224),rgb(0, 19, 128));
+    height: 100vh;
+    width:100%;
+    padding: 50px;
+}
+
+.login-subdiv{
+background-color: antiquewhite;
+height: 80vh;
+max-width:80%;
+}
+
+.input-form{
+    border-radius: 50px;
+    max-width:260px;
+    margin: 0 auto;
+    height: 50px;
+    background-color:rgb(209, 237, 241);
+    outline:none;
+    
+}
+
+.but{
+    border:none;
+    background-color: transparent;
+    color: antiquewhite;
+    width:30%;
+}
+.log-email{
+    border:none;
+    max-width: 250px;
+    background-color: transparent;
+    outline: none;
+}
+.log-img{
+    max-width:300px;
+}
+.log-tex{
+    font-size:15px;
+}
+a{
+    text-decoration: none;
+}

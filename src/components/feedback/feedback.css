@@ -1,0 +1,22 @@
+*{
+ margin:0 auto ;
+ padding: 0 auto;
+}
+
+
+
+.feedmain{
+    height: 100vh;
+    background-color:pink;
+    padding: 90px;
+}
+.feedbackback{
+    height:fit-content;
+    margin:0 auto;
+    width:65%;
+   
+}
+.feedsmile{
+font-size: 150px;
+margin: 0 auto;
+}

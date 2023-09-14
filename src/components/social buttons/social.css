@@ -1,0 +1,23 @@
+*{
+    margin:0 auto;
+    padding:0 auto;
+}
+.back{
+    background-image: url(./download.jpg);
+     height:600px; 
+     width:100%; 
+    background-repeat: no-repeat;
+    background-size:cover;
+    text-align: center;
+    padding-top:100px;
+  }
+  .but{
+   height: 38px;
+   width:100px;
+   margin-top: 40px;
+   border:none ;
+   border-radius:10px;
+    
+    
+  }
+

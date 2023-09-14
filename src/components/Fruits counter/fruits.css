@@ -1,0 +1,22 @@
+*{
+    margin:0 auto;
+    padding:0 auto;
+}
+
+
+.fruitsmain{
+    width: 100%;
+    height:100vh;
+    background-image:linear-gradient(to right,rgb(218, 117, 192),rgb(235, 144, 40));
+    padding: 50px; 
+}
+.fruitback{
+    height:80vh;
+    width:80%;
+    
+}
+.but-fruit{
+    width:100px;
+    border: none;
+    border-radius: 10px;
+}

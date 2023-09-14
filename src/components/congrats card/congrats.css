@@ -1,0 +1,21 @@
+*{
+    margin: 0 auto;
+    padding: 0 auto;
+}
+.person{
+   
+    text-align: center;
+    background-color:rgb(155, 248, 248);
+     
+    color:navy;
+    
+}
+.congrats-person1{
+    border-radius: 50%;
+    
+} 
+.congratsback{
+    background-image: url('https://assets.ccbp.in/frontend/react-js/congrats-card-bg.png');
+    height: 100vh;
+    width: 100%;
+}

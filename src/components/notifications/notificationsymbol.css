@@ -1,0 +1,20 @@
+*{
+    margin:0 auto;
+    padding: 0 auto;
+}
+.notifi-main{
+    height:300px;
+    width:100%;
+
+}
+.noti-bar{
+    height: 60px;
+    width:400px;
+    margin-top:30px;
+    
+}
+.sizing{
+    height: 20px;
+    width:20px;
+    color:white;
+}
